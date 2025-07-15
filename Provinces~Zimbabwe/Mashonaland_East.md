@@ -40,11 +40,18 @@ markerFolder: ./Mashonaland_East/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Zimbabwe/Counties/Mashonaland_East|Mashonaland_East]] 
-- [[../../../../../../_public/geo/Continent/Africa/Zimbabwe/Counties/Mashonaland_East.public|Mashonaland_East.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Zimbabwe/Counties/Mashonaland_East.internal|Mashonaland_East.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Zimbabwe/Counties/Mashonaland_East.protect|Mashonaland_East.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Zimbabwe/Counties/Mashonaland_East.private|Mashonaland_East.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Zimbabwe/Counties/Mashonaland_East.personal|Mashonaland_East.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Zimbabwe/Counties/Mashonaland_East.secret|Mashonaland_East.secret]] 
+
+### #is_/same_as :: [Mashonaland_East](/_Standards/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Mashonaland_East.md) 
+
+### #is_/same_as :: [Mashonaland_East.public](/_public/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Mashonaland_East.public.md) 
+
+### #is_/same_as :: [Mashonaland_East.internal](/_internal/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Mashonaland_East.internal.md) 
+
+### #is_/same_as :: [Mashonaland_East.protect](/_protect/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Mashonaland_East.protect.md) 
+
+### #is_/same_as :: [Mashonaland_East.private](/_private/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Mashonaland_East.private.md) 
+
+### #is_/same_as :: [Mashonaland_East.personal](/_personal/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Mashonaland_East.personal.md) 
+
+### #is_/same_as :: [Mashonaland_East.secret](/_secret/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Mashonaland_East.secret.md)
 

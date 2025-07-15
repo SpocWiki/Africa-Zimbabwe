@@ -132,10 +132,4 @@ Capital :: [[Harare]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Zimbabwe|Zimbabwe]] 
-- [[../../../../../_internal/geo/Continent/Africa/Africa~South/Zimbabwe.internal|Zimbabwe.internal]] 
-- [[../../../../../_protect/geo/Continent/Africa/Africa~South/Zimbabwe.protect|Zimbabwe.protect]] 
-- [[../../../../../_private/geo/Continent/Africa/Africa~South/Zimbabwe.private|Zimbabwe.private]] 
-- [[../../../../../_personal/geo/Continent/Africa/Africa~South/Zimbabwe.personal|Zimbabwe.personal]] 
-- [[../../../../../_secret/geo/Continent/Africa/Africa~South/Zimbabwe.secret|Zimbabwe.secret]] 
+

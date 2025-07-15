@@ -40,11 +40,18 @@ markerFolder: ./Mashonaland_Central/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Zimbabwe/Counties/Mashonaland_Central|Mashonaland_Central]] 
-- [[../../../../../../_public/geo/Continent/Africa/Zimbabwe/Counties/Mashonaland_Central.public|Mashonaland_Central.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Zimbabwe/Counties/Mashonaland_Central.internal|Mashonaland_Central.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Zimbabwe/Counties/Mashonaland_Central.protect|Mashonaland_Central.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Zimbabwe/Counties/Mashonaland_Central.private|Mashonaland_Central.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Zimbabwe/Counties/Mashonaland_Central.personal|Mashonaland_Central.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Zimbabwe/Counties/Mashonaland_Central.secret|Mashonaland_Central.secret]] 
+
+### #is_/same_as :: [Mashonaland_Central](/_Standards/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Mashonaland_Central.md) 
+
+### #is_/same_as :: [Mashonaland_Central.public](/_public/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Mashonaland_Central.public.md) 
+
+### #is_/same_as :: [Mashonaland_Central.internal](/_internal/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Mashonaland_Central.internal.md) 
+
+### #is_/same_as :: [Mashonaland_Central.protect](/_protect/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Mashonaland_Central.protect.md) 
+
+### #is_/same_as :: [Mashonaland_Central.private](/_private/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Mashonaland_Central.private.md) 
+
+### #is_/same_as :: [Mashonaland_Central.personal](/_personal/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Mashonaland_Central.personal.md) 
+
+### #is_/same_as :: [Mashonaland_Central.secret](/_secret/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Mashonaland_Central.secret.md)
 

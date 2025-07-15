@@ -40,11 +40,18 @@ markerFolder: ./Matabeleland_North/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Zimbabwe/Counties/Matabeleland_North|Matabeleland_North]] 
-- [[../../../../../../_public/geo/Continent/Africa/Zimbabwe/Counties/Matabeleland_North.public|Matabeleland_North.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Zimbabwe/Counties/Matabeleland_North.internal|Matabeleland_North.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Zimbabwe/Counties/Matabeleland_North.protect|Matabeleland_North.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Zimbabwe/Counties/Matabeleland_North.private|Matabeleland_North.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Zimbabwe/Counties/Matabeleland_North.personal|Matabeleland_North.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Zimbabwe/Counties/Matabeleland_North.secret|Matabeleland_North.secret]] 
+
+### #is_/same_as :: [Matabeleland_North](/_Standards/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Matabeleland_North.md) 
+
+### #is_/same_as :: [Matabeleland_North.public](/_public/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Matabeleland_North.public.md) 
+
+### #is_/same_as :: [Matabeleland_North.internal](/_internal/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Matabeleland_North.internal.md) 
+
+### #is_/same_as :: [Matabeleland_North.protect](/_protect/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Matabeleland_North.protect.md) 
+
+### #is_/same_as :: [Matabeleland_North.private](/_private/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Matabeleland_North.private.md) 
+
+### #is_/same_as :: [Matabeleland_North.personal](/_personal/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Matabeleland_North.personal.md) 
+
+### #is_/same_as :: [Matabeleland_North.secret](/_secret/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Matabeleland_North.secret.md)
 

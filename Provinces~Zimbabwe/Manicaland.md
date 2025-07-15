@@ -40,11 +40,18 @@ markerFolder: ./Manicaland/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Zimbabwe/Counties/Manicaland|Manicaland]] 
-- [[../../../../../../_public/geo/Continent/Africa/Zimbabwe/Counties/Manicaland.public|Manicaland.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Zimbabwe/Counties/Manicaland.internal|Manicaland.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Zimbabwe/Counties/Manicaland.protect|Manicaland.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Zimbabwe/Counties/Manicaland.private|Manicaland.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Zimbabwe/Counties/Manicaland.personal|Manicaland.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Zimbabwe/Counties/Manicaland.secret|Manicaland.secret]] 
+
+### #is_/same_as :: [Manicaland](/_Standards/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Manicaland.md) 
+
+### #is_/same_as :: [Manicaland.public](/_public/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Manicaland.public.md) 
+
+### #is_/same_as :: [Manicaland.internal](/_internal/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Manicaland.internal.md) 
+
+### #is_/same_as :: [Manicaland.protect](/_protect/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Manicaland.protect.md) 
+
+### #is_/same_as :: [Manicaland.private](/_private/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Manicaland.private.md) 
+
+### #is_/same_as :: [Manicaland.personal](/_personal/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Manicaland.personal.md) 
+
+### #is_/same_as :: [Manicaland.secret](/_secret/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Manicaland.secret.md)
 

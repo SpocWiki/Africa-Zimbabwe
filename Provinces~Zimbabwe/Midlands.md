@@ -40,11 +40,18 @@ markerFolder: ./Midlands/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Zimbabwe/Counties/Midlands|Midlands]] 
-- [[../../../../../../_public/geo/Continent/Africa/Zimbabwe/Counties/Midlands.public|Midlands.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Zimbabwe/Counties/Midlands.internal|Midlands.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Zimbabwe/Counties/Midlands.protect|Midlands.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Zimbabwe/Counties/Midlands.private|Midlands.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Zimbabwe/Counties/Midlands.personal|Midlands.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Zimbabwe/Counties/Midlands.secret|Midlands.secret]] 
+
+### #is_/same_as :: [Midlands](/_Standards/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Midlands.md) 
+
+### #is_/same_as :: [Midlands.public](/_public/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Midlands.public.md) 
+
+### #is_/same_as :: [Midlands.internal](/_internal/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Midlands.internal.md) 
+
+### #is_/same_as :: [Midlands.protect](/_protect/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Midlands.protect.md) 
+
+### #is_/same_as :: [Midlands.private](/_private/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Midlands.private.md) 
+
+### #is_/same_as :: [Midlands.personal](/_personal/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Midlands.personal.md) 
+
+### #is_/same_as :: [Midlands.secret](/_secret/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Midlands.secret.md)
 

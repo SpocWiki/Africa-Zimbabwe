@@ -1,4 +1,4 @@
-﻿---
+---
 location: [-17.83333,31.05] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -32,10 +32,18 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Zimbabwe/City/Harare|Harare]] 
-- [[../../../../../../_public/geo/Continent/Africa/Zimbabwe/City/Harare.public|Harare.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Zimbabwe/City/Harare.internal|Harare.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Zimbabwe/City/Harare.protect|Harare.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Zimbabwe/City/Harare.private|Harare.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Zimbabwe/City/Harare.personal|Harare.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Zimbabwe/City/Harare.secret|Harare.secret]] 
+
+### #is_/same_as :: [Harare](/_Standards/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Harare/City/Harare.md) 
+
+### #is_/same_as :: [Harare.public](/_public/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Harare/City/Harare.public.md) 
+
+### #is_/same_as :: [Harare.internal](/_internal/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Harare/City/Harare.internal.md) 
+
+### #is_/same_as :: [Harare.protect](/_protect/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Harare/City/Harare.protect.md) 
+
+### #is_/same_as :: [Harare.private](/_private/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Harare/City/Harare.private.md) 
+
+### #is_/same_as :: [Harare.personal](/_personal/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Harare/City/Harare.personal.md) 
+
+### #is_/same_as :: [Harare.secret](/_secret/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Harare/City/Harare.secret.md)
+

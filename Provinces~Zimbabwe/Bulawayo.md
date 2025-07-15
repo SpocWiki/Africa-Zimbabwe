@@ -40,11 +40,18 @@ markerFolder: ./Bulawayo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Zimbabwe/Counties/Bulawayo|Bulawayo]] 
-- [[../../../../../../_public/geo/Continent/Africa/Zimbabwe/Counties/Bulawayo.public|Bulawayo.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Zimbabwe/Counties/Bulawayo.internal|Bulawayo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Zimbabwe/Counties/Bulawayo.protect|Bulawayo.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Zimbabwe/Counties/Bulawayo.private|Bulawayo.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Zimbabwe/Counties/Bulawayo.personal|Bulawayo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Zimbabwe/Counties/Bulawayo.secret|Bulawayo.secret]] 
+
+### #is_/same_as :: [Bulawayo](/_Standards/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Bulawayo.md) 
+
+### #is_/same_as :: [Bulawayo.public](/_public/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Bulawayo.public.md) 
+
+### #is_/same_as :: [Bulawayo.internal](/_internal/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Bulawayo.internal.md) 
+
+### #is_/same_as :: [Bulawayo.protect](/_protect/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Bulawayo.protect.md) 
+
+### #is_/same_as :: [Bulawayo.private](/_private/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Bulawayo.private.md) 
+
+### #is_/same_as :: [Bulawayo.personal](/_personal/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Bulawayo.personal.md) 
+
+### #is_/same_as :: [Bulawayo.secret](/_secret/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Bulawayo.secret.md)
 

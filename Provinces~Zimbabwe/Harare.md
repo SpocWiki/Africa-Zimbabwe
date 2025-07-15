@@ -40,11 +40,18 @@ markerFolder: ./Harare/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Zimbabwe/Counties/Harare|Harare]] 
-- [[../../../../../../_public/geo/Continent/Africa/Zimbabwe/Counties/Harare.public|Harare.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Zimbabwe/Counties/Harare.internal|Harare.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Zimbabwe/Counties/Harare.protect|Harare.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Zimbabwe/Counties/Harare.private|Harare.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Zimbabwe/Counties/Harare.personal|Harare.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Zimbabwe/Counties/Harare.secret|Harare.secret]] 
+
+### #is_/same_as :: [Harare](/_Standards/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Harare.md) 
+
+### #is_/same_as :: [Harare.public](/_public/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Harare.public.md) 
+
+### #is_/same_as :: [Harare.internal](/_internal/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Harare.internal.md) 
+
+### #is_/same_as :: [Harare.protect](/_protect/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Harare.protect.md) 
+
+### #is_/same_as :: [Harare.private](/_private/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Harare.private.md) 
+
+### #is_/same_as :: [Harare.personal](/_personal/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Harare.personal.md) 
+
+### #is_/same_as :: [Harare.secret](/_secret/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Harare.secret.md)
 
