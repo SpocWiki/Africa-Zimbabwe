@@ -1,37 +1,38 @@
 ---
 location:
-- -17.8333
-- 31.05
+  - -17.8333
+  - 31.05
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 27064
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Zimbabwe
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Zimbabwe
-- زمبابوي
-- 津巴布韦
-- Зимбабве
-- the Republic of Zimbabwe
-- la República de Zimbabwe
+  - Zimbabwe
+  - زمبابوي
+  - 津巴布韦
+  - Зимбабве
+  - the Republic of Zimbabwe
+  - la República de Zimbabwe
 Languages:
-- en-ZW
-- sn
-- nr
-- nd
+  - en-ZW
+  - sn
+  - nr
+  - nd
 ---
 
 
