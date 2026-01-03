@@ -40,17 +40,17 @@ markerFolder: ./Mashonaland_Central/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mashonaland_Central](/_Standards/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Mashonaland_Central.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Mashonaland_Central|Mashonaland_Central]] 
 
-### #is_/same_as :: [Mashonaland_Central.public](/_public/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Mashonaland_Central.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Mashonaland_Central.public|Mashonaland_Central.public]] 
 
-### #is_/same_as :: [Mashonaland_Central.internal](/_internal/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Mashonaland_Central.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Mashonaland_Central.internal|Mashonaland_Central.internal]] 
 
-### #is_/same_as :: [Mashonaland_Central.protect](/_protect/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Mashonaland_Central.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Mashonaland_Central.protect|Mashonaland_Central.protect]] 
 
-### #is_/same_as :: [Mashonaland_Central.private](/_private/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Mashonaland_Central.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Mashonaland_Central.private|Mashonaland_Central.private]] 
 
-### #is_/same_as :: [Mashonaland_Central.personal](/_personal/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Mashonaland_Central.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Mashonaland_Central.personal|Mashonaland_Central.personal]] 
 
-### #is_/same_as :: [Mashonaland_Central.secret](/_secret/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Mashonaland_Central.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Mashonaland_Central.secret|Mashonaland_Central.secret]] 
 

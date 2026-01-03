@@ -42,19 +42,20 @@ geojsonFolder: ./Harare,Province///
 markerFolder: ./Harare,Province///
 ```
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Harare](/_Standards/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Harare.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Harare,Province|Harare,Province]] 
 
-### #is_/same_as :: [Harare.public](/_public/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Harare.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Harare,Province.public|Harare,Province.public]] 
 
-### #is_/same_as :: [Harare.internal](/_internal/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Harare.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Harare,Province.internal|Harare,Province.internal]] 
 
-### #is_/same_as :: [Harare.protect](/_protect/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Harare.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Harare,Province.protect|Harare,Province.protect]] 
 
-### #is_/same_as :: [Harare.private](/_private/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Harare.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Harare,Province.private|Harare,Province.private]] 
 
-### #is_/same_as :: [Harare.personal](/_personal/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Harare.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Harare,Province.personal|Harare,Province.personal]] 
 
-### #is_/same_as :: [Harare.secret](/_secret/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Harare.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Harare,Province.secret|Harare,Province.secret]] 
 

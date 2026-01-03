@@ -146,17 +146,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Harare](/_Standards/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Harare/City/Harare.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Harare,Province/counties~Harare/Harare,City|Harare,City]] 
 
-### #is_/same_as :: [Harare.public](/_public/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Harare/City/Harare.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Harare,Province/counties~Harare/Harare,City.public|Harare,City.public]] 
 
-### #is_/same_as :: [Harare.internal](/_internal/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Harare/City/Harare.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Harare,Province/counties~Harare/Harare,City.internal|Harare,City.internal]] 
 
-### #is_/same_as :: [Harare.protect](/_protect/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Harare/City/Harare.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Harare,Province/counties~Harare/Harare,City.protect|Harare,City.protect]] 
 
-### #is_/same_as :: [Harare.private](/_private/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Harare/City/Harare.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Harare,Province/counties~Harare/Harare,City.private|Harare,City.private]] 
 
-### #is_/same_as :: [Harare.personal](/_personal/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Harare/City/Harare.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Harare,Province/counties~Harare/Harare,City.personal|Harare,City.personal]] 
 
-### #is_/same_as :: [Harare.secret](/_secret/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Harare/City/Harare.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Harare,Province/counties~Harare/Harare,City.secret|Harare,City.secret]] 
 

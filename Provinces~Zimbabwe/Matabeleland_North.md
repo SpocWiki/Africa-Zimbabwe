@@ -40,17 +40,17 @@ markerFolder: ./Matabeleland_North/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Matabeleland_North](/_Standards/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Matabeleland_North.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Matabeleland_North|Matabeleland_North]] 
 
-### #is_/same_as :: [Matabeleland_North.public](/_public/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Matabeleland_North.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Matabeleland_North.public|Matabeleland_North.public]] 
 
-### #is_/same_as :: [Matabeleland_North.internal](/_internal/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Matabeleland_North.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Matabeleland_North.internal|Matabeleland_North.internal]] 
 
-### #is_/same_as :: [Matabeleland_North.protect](/_protect/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Matabeleland_North.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Matabeleland_North.protect|Matabeleland_North.protect]] 
 
-### #is_/same_as :: [Matabeleland_North.private](/_private/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Matabeleland_North.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Matabeleland_North.private|Matabeleland_North.private]] 
 
-### #is_/same_as :: [Matabeleland_North.personal](/_personal/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Matabeleland_North.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Matabeleland_North.personal|Matabeleland_North.personal]] 
 
-### #is_/same_as :: [Matabeleland_North.secret](/_secret/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Matabeleland_North.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Matabeleland_North.secret|Matabeleland_North.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Manicaland/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Manicaland](/_Standards/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Manicaland.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Manicaland|Manicaland]] 
 
-### #is_/same_as :: [Manicaland.public](/_public/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Manicaland.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Manicaland.public|Manicaland.public]] 
 
-### #is_/same_as :: [Manicaland.internal](/_internal/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Manicaland.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Manicaland.internal|Manicaland.internal]] 
 
-### #is_/same_as :: [Manicaland.protect](/_protect/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Manicaland.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Manicaland.protect|Manicaland.protect]] 
 
-### #is_/same_as :: [Manicaland.private](/_private/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Manicaland.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Manicaland.private|Manicaland.private]] 
 
-### #is_/same_as :: [Manicaland.personal](/_personal/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Manicaland.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Manicaland.personal|Manicaland.personal]] 
 
-### #is_/same_as :: [Manicaland.secret](/_secret/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Manicaland.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Manicaland.secret|Manicaland.secret]] 
 

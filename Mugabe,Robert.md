@@ -169,3 +169,20 @@ ISNI: "0000000078292673"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Robert%20Mugabe) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~South/Zimbabwe/Mugabe,Robert|Mugabe,Robert]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~South/Zimbabwe/Mugabe,Robert.public|Mugabe,Robert.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~South/Zimbabwe/Mugabe,Robert.internal|Mugabe,Robert.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~South/Zimbabwe/Mugabe,Robert.protect|Mugabe,Robert.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~South/Zimbabwe/Mugabe,Robert.private|Mugabe,Robert.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~South/Zimbabwe/Mugabe,Robert.personal|Mugabe,Robert.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~South/Zimbabwe/Mugabe,Robert.secret|Mugabe,Robert.secret]] 
+

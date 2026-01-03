@@ -40,17 +40,17 @@ markerFolder: ./Masvingo/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Masvingo](/_Standards/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Masvingo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Masvingo|Masvingo]] 
 
-### #is_/same_as :: [Masvingo.public](/_public/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Masvingo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Masvingo.public|Masvingo.public]] 
 
-### #is_/same_as :: [Masvingo.internal](/_internal/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Masvingo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Masvingo.internal|Masvingo.internal]] 
 
-### #is_/same_as :: [Masvingo.protect](/_protect/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Masvingo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Masvingo.protect|Masvingo.protect]] 
 
-### #is_/same_as :: [Masvingo.private](/_private/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Masvingo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Masvingo.private|Masvingo.private]] 
 
-### #is_/same_as :: [Masvingo.personal](/_personal/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Masvingo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Masvingo.personal|Masvingo.personal]] 
 
-### #is_/same_as :: [Masvingo.secret](/_secret/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Masvingo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~South/Zimbabwe/Provinces~Zimbabwe/Masvingo.secret|Masvingo.secret]] 
 
