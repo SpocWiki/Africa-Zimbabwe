@@ -125,7 +125,7 @@ markerFolder: .//
 [Area-Land::386850] 
 Continent :: [[Africa]]  
 [VehicleCode::ZW] 
-Capital :: [[Provinces~Zimbabwe/Harare,Province]]  
+Capital :: [[Provinces~Zimbabwe/Harare,Province|Harare,Province]]  
 [Alcohol-l::5.1] 
 [Language-Id::499] 
 [geo-lon::31.05] 
