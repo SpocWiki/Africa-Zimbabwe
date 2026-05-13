@@ -40,7 +40,7 @@ minZoom: 6
 maxZoom: 18
 geojsonFolder: ./Harare,Province///
 markerFolder: ./Harare,Province///
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

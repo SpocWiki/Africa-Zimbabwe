@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Mashonaland_Central/
 markerFolder: ./Mashonaland_Central/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

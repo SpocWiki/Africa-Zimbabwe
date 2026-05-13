@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Mashonaland_East/
 markerFolder: ./Mashonaland_East/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
