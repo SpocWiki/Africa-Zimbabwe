@@ -471,7 +471,7 @@ dv_UNTERM_Chinese_Formal: 津巴布韦共和国
 dv_UNTERM_French_Formal: la République du Zimbabwe
 dv_UNTERM_Russian: Зимбабве
 dv_UNTERM_Russian_Formal: Республика Зимбабве
-dv_Region_Name: '[[../../Africa|Africa]]'
+dv_Region_Name: '[[../../../Africa|Africa]]'
 dv_Intermediate_Region_Name: '[[Eastern Africa]]'
 dv_Sub-region_Name: '[[Sub-Saharan Africa]]'
 dv_Region: 2
@@ -498,7 +498,7 @@ dv_ISO2: ZW
 dv_ISO3: ZWE
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Zimbabwe,954|WD~Zimbabwe,954]]'
+  - '[[../../../../../WikiData/WD~Zimbabwe,954|WD~Zimbabwe,954]]'
   - '[[/_Standards/Earth/Continent/Africa/Africa~South/Zimbabwe|Zimbabwe]]'
   - '[[/_public/Earth/Continent/Africa/Africa~South/Zimbabwe.public|Zimbabwe.public]]'
   - '[[/_internal/Earth/Continent/Africa/Africa~South/Zimbabwe.internal|Zimbabwe.internal]]'
@@ -797,16 +797,16 @@ dv_has_:
 dv_has_name_de: Zimbabwe
 dv_Area-Total: 390757
 dv_Area-Land: 386850
-dv_has_place_continent: '[[../../Africa|Africa]]'
+dv_has_place_continent: '[[../../../Africa|Africa]]'
 dv_VehicleCode: ZW
 dv_Alcohol-l: 5.1
 dv_Language-Id: 499
-dv_is_a_: "[[../../../Geography/Place/Administrative_Area/Country|Country]]"
+dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/Country|Country]]"
 dv_has_place_longitude: 31.05
 dv_has_place_latitude: -17.8333
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Zimbabwe,954|WD~Zimbabwe,954]]'
+- '[[../../../../../WikiData/WD~Zimbabwe,954|WD~Zimbabwe,954]]'
 - '[[/_Standards/Earth/Continent/Africa/Africa~South/Zimbabwe|Zimbabwe]]'
 - '[[/_public/Earth/Continent/Africa/Africa~South/Zimbabwe.public|Zimbabwe.public]]'
 - '[[/_internal/Earth/Continent/Africa/Africa~South/Zimbabwe.internal|Zimbabwe.internal]]'
@@ -893,7 +893,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Zimbabwe/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ## #has_/map 
 
@@ -913,7 +913,7 @@ markerFile: [[Zimbabwe]]
 
 ```leaflet
 id: Zimbabwe_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -945,7 +945,7 @@ Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
-Capital :: [[Zimbabwe/Provinces~Zimbabwe/Harare,Province|Harare,Province]]  
+Capital :: [[Provinces~Zimbabwe/Harare,Province|Harare,Province]]  
 Alcohol-l = `=this.dv_Alcohol-l`
 Language-Id = `=this.dv_Language-Id`
 
